@@ -55,3 +55,12 @@
 [submodule "general dev/design"]
 	path = general dev/design
 	url = https://github.com/VoltAgent/awesome-design-md.git
+[submodule "general dev/animation/gsap"]
+	path = general dev/animation/gsap
+	url = https://github.com/greensock/GSAP.git
+[submodule "general dev/animation/animate-css"]
+	path = general dev/animation/animate-css
+	url = https://github.com/animate-css/animate.css.git
+[submodule "general dev/animation/anime"]
+	path = general dev/animation/anime
+	url = https://github.com/juliangarnier/anime.git
