@@ -52,3 +52,6 @@
 [submodule "ai-llm/openai-cookbook"]
 	path = ai-llm/openai-cookbook
 	url = https://github.com/openai/openai-cookbook.git
+[submodule "general dev/design"]
+	path = general dev/design
+	url = https://github.com/VoltAgent/awesome-design-md.git
