@@ -1,0 +1,54 @@
+[submodule "security/CheatSheetSeries"]
+	path = security/CheatSheetSeries
+	url = https://github.com/OWASP/CheatSheetSeries.git
+[submodule "ai-llm/anthropic-cookbook"]
+	path = ai-llm/anthropic-cookbook
+	url = https://github.com/anthropics/anthropic-cookbook.git
+[submodule "general dev/gitignore"]
+	path = general dev/gitignore
+	url = https://github.com/github/gitignore.git
+[submodule "security/the-book-of-secret-knowledge"]
+	path = security/the-book-of-secret-knowledge
+	url = https://github.com/trimstray/the-book-of-secret-knowledge.git
+[submodule "general dev/developer-roadmap"]
+	path = general dev/developer-roadmap
+	url = https://github.com/kamranahmedse/developer-roadmap.git
+[submodule "security/hacktricks"]
+	path = security/hacktricks
+	url = https://github.com/carlospolop/hacktricks.git
+[submodule "ai-llm/anthropic-sdk-python"]
+	path = ai-llm/anthropic-sdk-python
+	url = https://github.com/anthropics/anthropic-sdk-python.git
+[submodule "security/PayloadsAllTheThings"]
+	path = security/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "security/SecLists"]
+	path = security/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "ai-llm/awesome-chatgpt-prompts"]
+	path = ai-llm/awesome-chatgpt-prompts
+	url = https://github.com/f/awesome-chatgpt-prompts.git
+[submodule "docs and links/awesome"]
+	path = docs and links/awesome
+	url = https://github.com/sindresorhus/awesome.git
+[submodule "security/rawsec-cybersecurity-inventory"]
+	path = security/rawsec-cybersecurity-inventory
+	url = https://github.com/noraj/rawsec-cybersecurity-inventory.git
+[submodule "python/python-patterns"]
+	path = python/python-patterns
+	url = https://github.com/faif/python-patterns.git
+[submodule "python/bandit"]
+	path = python/bandit
+	url = https://github.com/PyCQA/bandit.git
+[submodule "python/awesome-python"]
+	path = python/awesome-python
+	url = https://github.com/vinta/awesome-python.git
+[submodule "docs and links/free-programming-books"]
+	path = docs and links/free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books.git
+[submodule "general dev/hacker-laws"]
+	path = general dev/hacker-laws
+	url = https://github.com/dwmkerr/hacker-laws.git
+[submodule "ai-llm/openai-cookbook"]
+	path = ai-llm/openai-cookbook
+	url = https://github.com/openai/openai-cookbook.git
