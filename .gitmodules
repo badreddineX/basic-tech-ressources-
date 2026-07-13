@@ -64,3 +64,12 @@
 [submodule "general dev/animation/anime"]
 	path = general dev/animation/anime
 	url = https://github.com/juliangarnier/anime.git
+[submodule "general dev/animation/lenis"]
+	path = general dev/animation/lenis
+	url = https://github.com/darkroomengineering/lenis.git
+[submodule "general dev/animation/barba"]
+	path = general dev/animation/barba
+	url = https://github.com/barbajs/barba.git
+[submodule "general dev/animation/auto-animate"]
+	path = general dev/animation/auto-animate
+	url = https://github.com/formkit/auto-animate.git
